@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/tech-news/static/css/main.35784568.chunk.css",
-    "main.js": "/github.io/tech-news/static/js/main.f032a154.chunk.js",
-    "main.js.map": "/github.io/tech-news/static/js/main.f032a154.chunk.js.map",
-    "runtime-main.js": "/github.io/tech-news/static/js/runtime-main.bc4c53ac.js",
-    "runtime-main.js.map": "/github.io/tech-news/static/js/runtime-main.bc4c53ac.js.map",
-    "static/js/2.4904b4fd.chunk.js": "/github.io/tech-news/static/js/2.4904b4fd.chunk.js",
-    "static/js/2.4904b4fd.chunk.js.map": "/github.io/tech-news/static/js/2.4904b4fd.chunk.js.map",
-    "index.html": "/github.io/tech-news/index.html",
-    "precache-manifest.3025b6069b0fb705d15c62f094c77b99.js": "/github.io/tech-news/precache-manifest.3025b6069b0fb705d15c62f094c77b99.js",
-    "service-worker.js": "/github.io/tech-news/service-worker.js",
-    "static/css/main.35784568.chunk.css.map": "/github.io/tech-news/static/css/main.35784568.chunk.css.map",
-    "static/js/2.4904b4fd.chunk.js.LICENSE.txt": "/github.io/tech-news/static/js/2.4904b4fd.chunk.js.LICENSE.txt"
+    "main.css": "/tech-news/static/css/main.35784568.chunk.css",
+    "main.js": "/tech-news/static/js/main.f032a154.chunk.js",
+    "main.js.map": "/tech-news/static/js/main.f032a154.chunk.js.map",
+    "runtime-main.js": "/tech-news/static/js/runtime-main.9541a700.js",
+    "runtime-main.js.map": "/tech-news/static/js/runtime-main.9541a700.js.map",
+    "static/js/2.4904b4fd.chunk.js": "/tech-news/static/js/2.4904b4fd.chunk.js",
+    "static/js/2.4904b4fd.chunk.js.map": "/tech-news/static/js/2.4904b4fd.chunk.js.map",
+    "index.html": "/tech-news/index.html",
+    "precache-manifest.fc7881472ab6ffddf6137274647dc96f.js": "/tech-news/precache-manifest.fc7881472ab6ffddf6137274647dc96f.js",
+    "service-worker.js": "/tech-news/service-worker.js",
+    "static/css/main.35784568.chunk.css.map": "/tech-news/static/css/main.35784568.chunk.css.map",
+    "static/js/2.4904b4fd.chunk.js.LICENSE.txt": "/tech-news/static/js/2.4904b4fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc4c53ac.js",
+    "static/js/runtime-main.9541a700.js",
     "static/js/2.4904b4fd.chunk.js",
     "static/css/main.35784568.chunk.css",
     "static/js/main.f032a154.chunk.js"
